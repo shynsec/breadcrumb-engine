@@ -12,6 +12,11 @@
 ---
 
 ## 📸 Screenshots
+![Map View](screenshots/screenshot_1.png)
+
+![Intelligence Table](screenshots/screenshot_2.png)
+
+![Map View](screenshots/screenshot_3.png)
 
 > **Map View** — Each IP is plotted on a dark CartoDB basemap. Markers are colour-coded by VirusTotal risk score.
 
